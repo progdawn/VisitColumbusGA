@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visit Columbus, GA</string>
+    <string name="camp">Homeless Camp Image</string>
+    <string name="water">River Rafting Image</string>
+    <string name="heritage">Heritage Park Image</string>
+    <string name="title_activity_heritage">Heritage Park</string>
+    <string name="title_activity_homeless">Homeless Camp</string>
+    <string name="title_activity_river">River Rafting</string>
+</resources>
